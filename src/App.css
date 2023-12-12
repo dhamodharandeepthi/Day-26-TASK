@@ -1,0 +1,30 @@
+th,
+td {
+  color: #4a080e;
+}
+
+h1,
+h3 {
+  display: flex;
+  justify-content: center;
+}
+
+#profile {
+  height: 100vh;
+}
+
+#react {
+  color: #490606;
+}
+
+.style {
+  margin: 20px;
+  width: fit-content;
+  height: fit-content;
+
+}
+
+.card-clr {
+  background-color: #064761;
+  color: white;
+}

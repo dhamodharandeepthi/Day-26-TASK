@@ -1,0 +1,123 @@
+[
+    {
+        "name": "Myrtle Halvorson",
+        "email": "Daisy87@yahoo.com",
+        "image": "https://shotkit.com/wp-content/uploads/2021/06/cool-profile-pic-matheus-ferrero.jpeg",
+        "tamil": 88,
+        "eng": 80,
+        "sci": 68,
+        "soc": 55,
+        "math": 100,
+        "id": "1"
+    },
+    {
+        "name": "Alicia Runolfsson",
+        "email": "Lola8@yahoo.com",
+        "image": "https://shotkit.com/wp-content/uploads/2021/06/cool-profile-pic-matheus-ferrero.jpeg",
+        "tamil": 80,
+        "eng": 0,
+        "sci": 68,
+        "soc": 55,
+        "math": 100,
+        "id": "2"
+    },
+    {
+        "name": "Leroy Senger",
+        "email": "Shemar87@gmail.com",
+        "image": "https://shotkit.com/wp-content/uploads/2021/06/cool-profile-pic-matheus-ferrero.jpeg",
+        "tamil": 88,
+        "eng": 70,
+        "sci": 60,
+        "soc": 50,
+        "math": 10,
+        "id": "3"
+    },
+    {
+        "name": "Joanne Schumm",
+        "email": "Malcolm83@gmail.com",
+        "image": "https://shotkit.com/wp-content/uploads/2021/06/cool-profile-pic-matheus-ferrero.jpeg",
+        "tamil": 88,
+        "eng": 80,
+        "sci": 68,
+        "soc": 55,
+        "math": 100,
+        "id": "4"
+    },
+    {
+        "name": "Misty Kub",
+        "email": "Titus_Donnelly40@hotmail.com",
+        "image": "https://shotkit.com/wp-content/uploads/2021/06/cool-profile-pic-matheus-ferrero.jpeg",
+        "tamil": 88,
+        "eng": 80,
+        "sci": 68,
+        "soc": 55,
+        "math": 100,
+        "id": "5"
+    },
+    {
+        "name": "Ron Reichert",
+        "email": "Karley.Shanahan@hotmail.com",
+        "image": "https://shotkit.com/wp-content/uploads/2021/06/cool-profile-pic-matheus-ferrero.jpeg",
+        "tamil": 88,
+        "eng": 80,
+        "sci": 68,
+        "soc": 55,
+        "math": 100,
+        "id": "6"
+    },
+    {
+        "name": "Shelly Ziemann",
+        "email": "Tyler85@yahoo.com",
+        "image": "https://shotkit.com/wp-content/uploads/2021/06/cool-profile-pic-matheus-ferrero.jpeg",
+        "tamil": 88,
+        "eng": 80,
+        "sci": 68,
+        "soc": 55,
+        "math": 100,
+        "id": "7"
+    },
+    {
+        "name": "Jessie Little",
+        "email": "Amalia92@yahoo.com",
+        "image": "https://shotkit.com/wp-content/uploads/2021/06/cool-profile-pic-matheus-ferrero.jpeg",
+        "tamil": 88,
+        "eng": 80,
+        "sci": 68,
+        "soc": 55,
+        "math": 100,
+        "id": "8"
+    },
+    {
+        "name": "Casey Stroman",
+        "email": "Americo.Friesen73@yahoo.com",
+        "image": "https://shotkit.com/wp-content/uploads/2021/06/cool-profile-pic-matheus-ferrero.jpeg",
+        "tamil": 88,
+        "eng": 80,
+        "sci": 68,
+        "soc": 55,
+        "math": 100,
+        "id": "9"
+    },
+    {
+        "name": "Mr. Rochelle Carroll",
+        "email": "Antonina.Kerluke12@gmail.com",
+        "image": "https://shotkit.com/wp-content/uploads/2021/06/cool-profile-pic-matheus-ferrero.jpeg",
+        "tamil": 88,
+        "eng": 80,
+        "sci": 68,
+        "soc": 55,
+        "math": 100,
+        "id": "10"
+    },
+    {
+        "name": "Karthick",
+        "email": "karthick@gmail.com",
+        "image": "https://shotkit.com/wp-content/uploads/2021/06/cool-profile-pic-matheus-ferrero.jpeg",
+        "tamil": 88,
+        "eng": 80,
+        "sci": 68,
+        "soc": 55,
+        "math": 100,
+        "id": "11"
+    }
+]
